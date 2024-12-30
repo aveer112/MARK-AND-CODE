@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>mark and code</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <body>
+        <h1>mark and code</h1>
+        <mark>mark tag is used to highlight the text</mark>
+        <br>
+        <code>span,section,div are used for changing the paragraphs</code>
+    </body>
+</head>
